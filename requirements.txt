@@ -1,0 +1,7 @@
+crewai>=0.28.8
+uagents-adapter[a2a]
+a2a-sdk[all]
+crewai-tools
+python-dotenv
+langchain
+langchain-openai
